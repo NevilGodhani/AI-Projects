@@ -29,7 +29,7 @@ Python 🐍 • Jupyter Notebook • scikit-learn • pandas • matplotlib • 
 
 ## 📄 Certificates
 View my verified university certifications here:  
-➡️ [Certificates Folder](https://github.com/NevilGodhani/Certificates)
+➡️ [Certificates Folder](NevilGodhani/Certificates)
 
 ---
 
